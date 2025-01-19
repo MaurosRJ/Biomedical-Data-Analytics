@@ -38,11 +38,11 @@ This project focuses on analyzing and predicting stroke risk among adults in the
 ## Tools and Technologies
 - **Programming Languages**: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 - **Data Visualization**: Tableau  
-- **Data Storage and Management**: SQL, Excel
-- **Model Deployment**: [Add if applicable, e.g., Flask, AWS SageMaker]
+- **Data Storage and Management**: Python, Excel
+
 
 ## Results
-- Achieved [state accuracy metric, e.g., 85% prediction accuracy] in identifying high-risk individuals.
+- Achieved actionable insights in identifying high-risk individuals.
 - Highlighted underrepresented regions with limited access to healthcare services.
 - Provided actionable insights for patient education and clinical monitoring improvements.
 
