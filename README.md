@@ -37,7 +37,7 @@ This project focuses on analyzing and predicting stroke risk among adults in the
 
 ## Tools and Technologies
 - **Programming Languages**: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
-- **Data Visualization**: Tableau, Power BI
+- **Data Visualization**: Tableau  
 - **Data Storage and Management**: SQL, Excel
 - **Model Deployment**: [Add if applicable, e.g., Flask, AWS SageMaker]
 
