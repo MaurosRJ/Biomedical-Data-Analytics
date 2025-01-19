@@ -10,8 +10,8 @@ This project focuses on analyzing and predicting stroke risk among adults in the
 - Support healthcare decision-making through data-driven approaches.
 
 ## Dataset
-- **Source**: [Add data source name, e.g., public health databases, clinical datasets, or synthetic data].
-- **Size**: [Include dataset size if known, e.g., number of rows/columns].
+- **Source**: [[https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/data]].
+- **Size**: 5000/12 rows/columns].
 - **Key Features**:
   - Patient demographics (e.g., age, gender, region).
   - Health metrics (e.g., glucose levels, BMI, blood pressure).
@@ -36,4 +36,17 @@ This project focuses on analyzing and predicting stroke risk among adults in the
    - Designed health education strategies based on model predictions.
 
 ## Tools and Technologies
-- **Programming Languages**: Python (Pandas, NumPy, Scikit-learn, Matplotl
+- **Programming Languages**: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+- **Data Visualization**: Tableau, Power BI
+- **Data Storage and Management**: SQL, Excel
+- **Model Deployment**: [Add if applicable, e.g., Flask, AWS SageMaker]
+
+## Results
+- Achieved [state accuracy metric, e.g., 85% prediction accuracy] in identifying high-risk individuals.
+- Highlighted underrepresented regions with limited access to healthcare services.
+- Provided actionable insights for patient education and clinical monitoring improvements.
+
+## Future Work
+- Integrate real-time glucose and BMI monitoring systems into the model.
+- Expand analysis to include additional health metrics such as cholesterol levels and physical activity data.
+- Collaborate with healthcare providers to implement and test the proposed solutions.
